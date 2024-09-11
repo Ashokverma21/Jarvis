@@ -1,0 +1,140 @@
+
+You : I am fine 
+jarvis : I am glad to hear that.
+You : Thank you 
+jarvis : You're welcome.
+You : Who are you 
+jarvis : I am Jarvis, your virtual assistant.
+You : And tell me how are you? 
+jarvis : I am fine. Thank you for asking.
+You : what were you doing all these days 
+jarvis : I was doing some research on the internet.
+You : what research were you doing 
+jarvis : I was doing some research on the internet.
+You : No input detected. 
+jarvis : Please provide some input.
+You : tell me about recharge 
+jarvis : You can recharge your phone by going to the store and buying a recharge card.
+You : Hi 
+jarvis : Hello, how are you?
+You : No input detected. 
+jarvis : Please provide some input.
+You : No input detected. 
+jarvis : Please provide some input.
+You : No input detected. 
+jarvis : Please provide some input.
+You : No input detected. 
+jarvis : Please provide some input.
+You : No input detected. 
+jarvis : Please provide some input.
+You : yes 
+jarvis : Please provide some input.
+You : who is shahrukh khan 
+jarvis : Shahrukh Khan is an Indian actor, producer, and television personality.
+You : Tell me more about it 
+jarvis : He is also known as the "King of Bollywood" and has appeared in more than 80 Bollywood films.
+You : Some connections to Dawood Ibrahim 
+jarvis : Some people believe that Shahrukh Khan has some connections to Dawood Ibrahim, but there is no concrete evidence to support this claim.
+You : who was dawood ibrahim 
+jarvis : Dawood Ibrahim is a Indian underworld don and terrorist.
+You : Where is Dawood Ibrahim in this world 
+jarvis : Dawood Ibrahim is believed to be hiding in Pakistan.
+You : ok nice 
+jarvis : You're welcome.
+You : Who is hiding in Pakistan 
+jarvis : Dawood Ibrahim is believed to be hiding in Pakistan.
+You : And tell me which substance is in Pakistan? 
+jarvis : I am not sure what you are asking for.
+You : who was hiding in pakistan 
+jarvis : Dawood Ibrahim is believed to be hiding in Pakistan.
+You : No input detected. 
+jarvis : Please provide some input.
+You : Hi 
+jarvis : Hello, how are you?
+You : Where is IIMT College of Engineering 
+jarvis : IIMT College of Engineering is located in Greater Noida, Uttar Pradesh, India.
+You : In IIT College of Engineering 
+jarvis : IIMT College of Engineering is located in Greater Noida, Uttar Pradesh, India.
+You : How many courses are available in this college 
+jarvis : IIMT College of Engineering offers several courses in various disciplines such as Engineering, Management, Computer Applications, Architecture, and Biotechnology.
+You : No input detected. 
+jarvis : Please provide some input.
+You : How far is Galgotias Engineering College from IMT College of Engineering 
+jarvis : Galgotias Engineering College is approximately 8.5 km away from IIMT College of Engineering.
+You : No input detected. 
+jarvis : Please provide some input.
+You : And tell me about yourself 
+jarvis : I am Jarvis, your virtual assistant. I am here to help you with any questions or tasks you may have.
+You : Write a python code to add two numbers 
+jarvis : Sure. Here is the code:
+
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+sum = num1 + num2
+
+print("The sum of the two numbers is:", sum)
+You : ok write a code 
+jarvis : Sure. Here is the code:
+
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+sum = num1 + num2
+
+print("The sum of the two numbers is:", sum)
+You : No input detected. 
+jarvis : Please provide some input.
+You : Write a code in Python for Basic I 
+jarvis : Sure. Here is the code: 
+
+# The following program prints out "Hello, World!" 
+
+print("Hello, World!")
+You : Write a Basic Code for Virtual Assistant in Python 
+jarvis : Sure. Here is the code:
+
+# Import libraries 
+import speech_recognition as sr 
+import os 
+import webbrowser 
+import random 
+
+# Setup speech recognition 
+r = sr.Recognizer() 
+
+# Define functions 
+def recognize_speech_from_mic(recognizer, microphone): 
+    """Transcribe speech from recorded from `microphone`. 
+    Returns a dictionary with three keys: 
+    "success": a boolean indicating whether or not the API request was 
+               successful 
+    "error":   `None` if no error occured, otherwise a string containing 
+               an error message if the API could not be reached or 
+               speech was unrecognizable 
+    "transcription": `None` if speech could not be transcribed, 
+               otherwise a string containing the transcribed text 
+    """ 
+    # check that recognizer and microphone arguments are appropriate type 
+    if not isinstance(recognizer, sr.Recognizer): 
+        raise TypeError("`recognizer` must be `Recognizer` instance") 
+
+    if not isinstance(microphone, sr
+You : No input detected. 
+jarvis : Please provide some input.
+You : No input detected. 
+jarvis : Please provide some input.
+You : Is Da Vinci 003 Free By Opinion 
+jarvis : Da Vinci 003 is a free open source software that can be used for 3D printing, CAD design, and prototyping. It is available for Windows, Mac, and Linux platforms.
+You : No input detected. 
+jarvis : Please provide some input.
+You : how much storage is my laptop 
+jarvis : I'm not sure. You will need to check the specifications of your laptop to find out how much storage it has.
+You : how big is your storage 
+jarvis : I don't have any storage. I am a virtual assistant and do not have any physical storage.
+You : What does virtual assistant mean? 
+jarvis : A virtual assistant is an artificial intelligence program that can perform tasks for a user such as answering questions, scheduling appointments, or completing other tasks.
+You : like how how 
+jarvis : I'm sorry, I don't understand. Please provide some input.
+You : No input detected. 
+jarvis : Please provide some input.
